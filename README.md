@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a computer engineer from gujarat
-- 🔭 Working on multiple programming like C , JavaScript , Python
+- 🔭 Working on multiple programming like C , C++ , JavaScript , Python
 - 🌱 Learning website development in depth
 <br>
 
