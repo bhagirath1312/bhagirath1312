@@ -1,7 +1,12 @@
 ### Hello World 👋
 I am a computer engineer from gujarat
-- 🔭 Working on multiple programming like C , C++ , JavaScript , Python
-- 🌱 Learning website development in depth
+-📖 I learned C ,Python, JavaScript , HTML , CSS, Bootstrap.
+
+-🌱 I am currently learning JS frameworks
+
+-🏆 2022 Goals: Contribute more to Open Source Projects
+
+-✨I am participant Hacktoberfest 2020
 <br>
 
 ## Connect with me
