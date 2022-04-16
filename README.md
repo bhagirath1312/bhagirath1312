@@ -8,6 +8,10 @@ I am a computer engineer from gujarat
 
 -✨I am participant Hacktoberfest 2020
 <br>
+<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=The+Life+Is+Good;When+You+Don't+Learn+Coding;)](https://git.io/typing-svg)
+
+
 
 ## Connect with me
 
