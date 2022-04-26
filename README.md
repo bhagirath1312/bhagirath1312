@@ -34,3 +34,8 @@ I am a computer engineer from gujarat
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=bhagirath1312)](https://github.com/ryo-ma/github-profile-trophy) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bhagirath1312&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- <a href="https://app.daily.dev/Bhagirath1312"><img src="https://api.daily.dev/devcards/cd5f566f30fc4a0c8be6fa659d48a934.png?r=mmb" width="100" alt="Bhatti Bhagirath's Dev Card"/></a> -->
+
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
