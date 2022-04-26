@@ -11,12 +11,13 @@ I am a computer engineer from gujarat
 -✨I am participant Hacktoberfest 2020
 <br>
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&color=995DFF&background=FF961B00&height=100&lines=The+Life+Is+Good;When+You+Don't+Learn+Coding;)](https://git.io/typing-svg)
+
+
 
 
 <div id="header" align="center">
-            <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-          </div> 
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div> 
 
 ## Connect with me
 
