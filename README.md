@@ -19,6 +19,8 @@ I am a computer engineer from gujarat
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> 
 
+<!-- ![](https://komarev.com/ghpvc/?username=bhagirath1312) -->
+<!-- ![](https://komarev.com/ghpvc/?username=your-github-bhagirath1312&color=green) -->
 ## Connect with me
 
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/15128628/bhatti-bhagirath?tab=profile)
