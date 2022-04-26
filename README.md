@@ -1,6 +1,6 @@
 ![banner (2)](https://user-images.githubusercontent.com/66365538/165345615-f2de52f7-2822-4d82-8c0c-13060b8a87fa.png)
 
-### Hello World 👋
+<!-- ### Hello World 👋 -->
 I am a computer engineer from gujarat
 -📖 I learned C ,Python, JavaScript , HTML , CSS, Bootstrap.
 
