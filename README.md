@@ -12,6 +12,9 @@ I am a computer engineer from gujarat
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&color=995DFF&background=FF961B00&height=100&lines=The+Life+Is+Good;When+You+Don't+Learn+Coding;)](https://git.io/typing-svg)
 
 
+<div id="header" align="center">
+            <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+          </div> 
 
 ## Connect with me
 
@@ -29,4 +32,8 @@ I am a computer engineer from gujarat
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 <br>
 <br> -->
-<a href="https://app.daily.dev/Bhagirath1312"><img src="https://api.daily.dev/devcards/cd5f566f30fc4a0c8be6fa659d48a934.png?r=mmb" width="400" alt="Bhatti Bhagirath's Dev Card"/></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhagirath1312&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=bhagirath1312)](https://github.com/ryo-ma/github-profile-trophy) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=bhagirath1312&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- <a href="https://app.daily.dev/Bhagirath1312"><img src="https://api.daily.dev/devcards/cd5f566f30fc4a0c8be6fa659d48a934.png?r=mmb" width="100" alt="Bhatti Bhagirath's Dev Card"/></a> -->
