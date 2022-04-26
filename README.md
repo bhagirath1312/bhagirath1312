@@ -21,14 +21,14 @@ I am a computer engineer from gujarat
 
 <!-- ![](https://komarev.com/ghpvc/?username=bhagirath1312) -->
 <!-- ![](https://komarev.com/ghpvc/?username=your-github-bhagirath1312&color=green) -->
-## Connect with me
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connect with me
 
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/15128628/bhatti-bhagirath?tab=profile)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/bhatti.bhagirath.7/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/BhagirathBhatti)
 <br>
 <br>
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=iozl7u3i3m6uey17cogf5mu4z)
+<!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=iozl7u3i3m6uey17cogf5mu4z) -->
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhagirath1312&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
