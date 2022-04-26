@@ -26,7 +26,7 @@ I am a computer engineer from gujarat
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/BhagirathBhatti)
 <br>
 <br>
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bhattibhagirath)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=iozl7u3i3m6uey17cogf5mu4z)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhagirath1312&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
