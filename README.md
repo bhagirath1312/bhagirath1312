@@ -32,10 +32,10 @@ I am a computer engineer from gujarat
 <!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=iozl7u3i3m6uey17cogf5mu4z) -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhagirath1312&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhagirath1312&theme=)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=bhagirath1312)](https://github.com/ryo-ma/github-profile-trophy) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=bhagirath1312&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bhagirath1312&theme=)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- <a href="https://app.daily.dev/Bhagirath1312"><img src="https://api.daily.dev/devcards/cd5f566f30fc4a0c8be6fa659d48a934.png?r=mmb" width="100" alt="Bhatti Bhagirath's Dev Card"/></a> -->
 
 
