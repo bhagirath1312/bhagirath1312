@@ -10,7 +10,7 @@ I am a computer engineer from gujarat
 
 -✨I am participant Hacktoberfest 2020
 
--🌟Participant Global Hack Week: INIT (2023) Hackathon
+-<img height="40" width="40" padding-left="400px" src="Hackathon girl_Image.svg"/>Participant Global Hack Week: INIT (2023) Hackathon
 <br>
 <br>
 
