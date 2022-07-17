@@ -42,3 +42,6 @@ I am a computer engineer from gujarat
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagirath1312&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bhagirath1312)](https://github.com/anuraghazra/github-readme-stats)
