@@ -22,17 +22,30 @@ I am a computer engineer from gujarat
 </div> 
 
 
- ![](https://komarev.com/ghpvc/?username=your-github-bhagirath1312&color=blueviolet) 
+
+
+
+
+<div align="center">
+ <img alt="view counter" src="https://komarev.com/ghpvc/?username=your-github-bhagirath1312&color=blueviolet">
+
+ <!-- ![](https://komarev.com/ghpvc/?username=your-github-bhagirath1312&color=blueviolet) -->
+ 
  <img alt="Chrome Web Store" src="https://img.shields.io/chrome-web-store/users/mbnbehikldjhnfehhnaidhjhoofhpehk?style=flat-square">
+</div>
+
 ## <img height="80" width="100" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connect with me
 
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/15128628/bhatti-bhagirath?tab=profile)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/bhatti.bhagirath.7/)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/BhagirathBhatti)
+<p align="left">
+<a href="https://twitter.com/BhagirathBhatti" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/bhatti-bhagirath-808120230/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<a href="https://www.instagram.com/bhatti_bhagirath/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
+<a href="https://bhagirath.hashnode.dev" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>
+<a href="https://dev.to/bhagirath1312" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/devto.png" alt="" height="30" /></a>
+</p>
 <br>
-<br>
+
 ### :fire: My Stats :
-<!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=iozl7u3i3m6uey17cogf5mu4z) -->
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bhagirath1312&theme=buefy)](https://git.io/streak-stats)
@@ -42,10 +55,7 @@ I am a computer engineer from gujarat
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhagirath1312&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=bhagirath1312)](https://github.com/ryo-ma/github-profile-trophy) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bhagirath1312&theme=)](https://github.com/ryo-ma/github-profile-trophy)
-<!-- <a href="https://app.daily.dev/Bhagirath1312"><img src="https://api.daily.dev/devcards/cd5f566f30fc4a0c8be6fa659d48a934.png?r=mmb" width="100" alt="Bhatti Bhagirath's Dev Card"/></a> -->
-
 
 <!--START_SECTION:waka-->
 
