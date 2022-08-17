@@ -1,4 +1,5 @@
-![banner (2)](https://user-images.githubusercontent.com/66365538/165345615-f2de52f7-2822-4d82-8c0c-13060b8a87fa.png)
+<!--![banner (2)](https://user-images.githubusercontent.com/66365538/165345615-f2de52f7-2822-4d82-8c0c-13060b8a87fa.png)-->
+![Purple Pink Modern Programmer LinkedIn Banner](https://user-images.githubusercontent.com/66365538/185100551-31c07870-b8c5-4439-957b-0ea4136ae5a4.gif)
 
 <!-- ### Hello World 👋 -->
 I am a computer engineer from gujarat
