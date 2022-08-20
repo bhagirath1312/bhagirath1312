@@ -47,8 +47,10 @@ I am a computer engineer from gujarat
 
 ### :fire: My Stats :
 
-
+<a href="url"><img src="https://user-images.githubusercontent.com/66365538/185738500-0588edf3-144a-445f-8dab-95d329b7406b.gif" align="right" height="300" width="300" ></a>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bhagirath1312&theme=buefy)](https://git.io/streak-stats)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagirath1312&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
