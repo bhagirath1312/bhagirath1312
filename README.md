@@ -17,25 +17,22 @@ I am a computer engineer from gujarat
 
 
 
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div> 
 
 
 
 
 
 
-<div align="center">
+
+<div align="left">
  <img alt="view counter" src="https://komarev.com/ghpvc/?username=your-github-bhagirath1312&color=blueviolet">
 
  <!-- ![](https://komarev.com/ghpvc/?username=your-github-bhagirath1312&color=blueviolet) -->
- 
+ <br>
  <img alt="Chrome Web Store" src="https://img.shields.io/chrome-web-store/users/mbnbehikldjhnfehhnaidhjhoofhpehk?style=flat-square">
 </div>
 
-## <img height="80" width="100" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connect with me
-
+## <img height="80" width="120" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connect with me
 <p align="left">
 <a href="https://twitter.com/BhagirathBhatti" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
 <a href="https://www.linkedin.com/in/bhatti-bhagirath-808120230/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
