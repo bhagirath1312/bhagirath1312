@@ -53,6 +53,7 @@ I am a computer engineer from gujarat
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagirath1312&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{bhagirath1312}/count.svg)-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhagirath1312&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 <br>
