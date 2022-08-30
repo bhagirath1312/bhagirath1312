@@ -57,7 +57,7 @@ I am a computer engineer from gujarat
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhagirath1312&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=bhagirath1312&theme=)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bhagirath1312)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
 
