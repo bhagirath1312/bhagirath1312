@@ -9,9 +9,9 @@ I am a computer engineer from gujarat
 
 -🏆 2022 Goals: Contribute more to Open Source Projects
 
--✨I am participant Hacktoberfest 2020
+-✨ I am participant Hacktoberfest 2020
 
--Participant Global Hack Week: INIT (2023) Hackathon
+-🙋🏻‍♂️ Participant Global Hack Week: INIT (2023) Hackathon
 <br>
 <br>
 
