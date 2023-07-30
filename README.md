@@ -7,7 +7,7 @@ I am a computer engineer from gujarat
 
 -🌱 I am currently learning JS frameworks
 
--🏆 2022 Goals: Contribute more to Open Source Projects
+-🏆 2023 Goals: Contribute more to Open Source Projects
 
 -✨ I am participant Hacktoberfest 2020
 
